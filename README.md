@@ -1,13 +1,16 @@
 # FP8 - Markdown
 
-#### Nome do estudante
+#### Afonso Frazão Cancela
 
-`Numero do estudante`
+`2190751`
 
 ## Linguagens de programação conhecidas:
 - C
+- C#
+- Java
 - JavaScript
 - Python
+- PHP
 - ...
 
 > Metedologias de Desenvolvimento de Sofware @ 2020
